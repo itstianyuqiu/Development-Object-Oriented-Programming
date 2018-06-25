@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab03.ex04;
+package ictgradschool.industry.lab_oop.ex04;
 
 /**
  * Write a program that prompts the user to enter an amount and a number of decimal places.  The program should then

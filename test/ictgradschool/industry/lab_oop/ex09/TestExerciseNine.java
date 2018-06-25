@@ -1,6 +1,5 @@
-package ictgradschool.industry.lab03.ex09;
+package ictgradschool.industry.lab_oop.ex09;
 
-import ictgradschool.industry.lab03.ex09.Deodorant;
 import org.junit.Before;
 import org.junit.Test;
 

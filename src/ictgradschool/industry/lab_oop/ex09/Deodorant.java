@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab03.ex09;
+package ictgradschool.industry.lab_oop.ex09;
 
 public class Deodorant {
 

@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab03.ex02;
+package ictgradschool.industry.lab_oop.ex02;
 
 /**
  * Write a program that prompts the user to enter a range – 2 integers representing a lower bound and an upper bound.

@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab03.ex10;
+package ictgradschool.industry.lab_oop.ex10;
 
 public class Medals {
 

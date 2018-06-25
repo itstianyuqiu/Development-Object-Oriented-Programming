@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab03.ex05;
+package ictgradschool.industry.lab_oop.ex05;
 
 import org.junit.Before;
 import org.junit.Test;

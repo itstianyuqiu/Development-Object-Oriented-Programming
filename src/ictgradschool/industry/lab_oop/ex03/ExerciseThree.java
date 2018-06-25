@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab03.ex03;
+package ictgradschool.industry.lab_oop.ex03;
 
 /**
  * Write a program that prompts the user to enter a sentence, then prints out the sentence with a random character
